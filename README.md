@@ -2,9 +2,9 @@
 
 ## 多表位重组抗原 CBBT 设计手册
 
-**English.** This repository documents a research project completed at Shandong University as my undergraduate graduation project. At the invitation of my supervisor, I organized the workflow, protocols, representative results, and practical notes into this manual as a reference resource for undergraduate research training.
+This repository documents a research project completed at Shandong University as my undergraduate graduation project. At the invitation of my supervisor, I organized the workflow, protocols, representative results, and practical notes into this manual as a reference resource for undergraduate research training.
 
-**中文。** 本项目是我在山东大学完成的一项课题，也是我的本科毕业设计。受老师邀请，我将课题中的研究流程、操作步骤、代表性结果与实践经验整理为本指导手册，供本科生科研训练与相关研究参考。
+本项目是我在山东大学完成的一项课题，也是我的本科毕业设计。受老师邀请，我将课题中的研究流程、操作步骤、代表性结果与实践经验整理为本指导手册，供本科生科研训练与相关研究参考。
 
 > This is an author-prepared educational resource and is not an official publication of Shandong University.  
 > 本仓库为作者整理的科研训练资料，并非山东大学官方出版物。
