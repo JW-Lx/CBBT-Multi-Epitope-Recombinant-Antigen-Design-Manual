@@ -81,3 +81,9 @@ If this repository contributes to your training or research, please cite the ori
 This manual records one undergraduate research route and the lessons learned while carrying it out. Its purpose is not to prescribe a single “correct” pipeline, but to help new students understand why each step is performed, reproduce the logic, identify limitations, and develop better solutions of their own.
 
 本手册记录的是我在山东大学本科就读期间完成的一项课题的研究路径及实践经验。它并非规定唯一“正确”的流程，而是希望帮助后来者理解每一步为什么要做、如何复现其逻辑、如何识别局限，并在此基础上形成更好的研究方案。
+
+## Follow-up validation｜后续实验验证
+
+Building on this work, subsequent members of the laboratory conducted a series of animal studies. The results showed that CBBT produced favorable broad-spectrum immune responses under the tested experimental conditions, providing further experimental support for the antigen-design strategy described in this manual.
+
+在本研究的基础上，实验室后续同学开展了一系列动物实验。结果表明，CBBT 在相应实验条件下表现出较好的广谱免疫效果，为本手册所述的抗原设计思路提供了进一步的实验依据。
