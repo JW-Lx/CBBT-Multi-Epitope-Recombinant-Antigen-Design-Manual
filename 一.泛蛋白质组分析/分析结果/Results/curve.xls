@@ -1,0 +1,9 @@
+	PAN GENOME	CORE GENOME
+Fit law	POWER	EXPONENTIAL
+Equation	f(x)=a.x^b	f1(x)=c.e^(d.x)
+Parameters	a= 4384.01	c= 2972.36
+__________	b= 0.638677	d= -0.111175
+Expected Size	21569.00	0.00
+Estimated Size	21434.82	782.91
+
+The parameter 'b' = 0.638677 , The pan genome is OPEN.

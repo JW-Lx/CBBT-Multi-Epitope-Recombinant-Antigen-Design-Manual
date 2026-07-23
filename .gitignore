@@ -1,0 +1,13 @@
+# Third-party or proprietary software packages
+三.抗原表位预测/软件下载/lasergene+11.0。.zip
+三.抗原表位预测/软件下载/安装软件指南最新密码10.27.xlsx
+六.实验部分/SnapGene下载.zip
+
+# Third-party article full texts; see the local reference index instead
+论文及参考文献/参考文献/*.pdf
+
+# Operating-system and Office temporary files
+Thumbs.db
+.DS_Store
+~$*
+
