@@ -2,9 +2,9 @@
 
 ## 多表位重组抗原 CBBT 设计手册
 
-This repository documents a research project completed at Shandong University as my undergraduate graduation project. At the invitation of my supervisor, I organized the workflow, protocols, representative results, and practical notes into this manual as a reference resource for undergraduate research training.
+This repository documents a research project I completed while studying as an undergraduate at Shandong University. At the invitation of my supervisor, I organized the workflow, protocols, representative results, and practical notes into this manual as a reference resource for undergraduate research training.
 
-本项目是我在山东大学完成的一项课题，也是我的本科毕业设计。受老师邀请，我将课题中的研究流程、操作步骤、代表性结果与实践经验整理为本指导手册，供本科生科研训练与相关研究参考。
+本项目是我在山东大学本科就读期间完成的一项课题。受老师邀请，我将课题中的研究流程、操作步骤、代表性结果与实践经验整理为本指导手册，供本科生科研训练与相关研究参考。
 
 > This is an author-prepared educational resource and is not an official publication of Shandong University.  
 > 本仓库为作者整理的科研训练资料，并非山东大学官方出版物。
@@ -38,7 +38,7 @@ The workflow can be summarized as:
 | `四.重组抗原设计/` | CBBT amino-acid architecture, linkers, adjuvant, and nucleotide-sequence design | CBBT 氨基酸结构、连接子、佐剂及核苷酸序列设计 |
 | `五.重组抗原质量评估/` | Physicochemical properties, secondary structure, 3D modeling, model assessment, docking, and PDB results | 理化性质、二级结构、三维建模、模型评价、分子对接与 PDB 结果 |
 | `六.实验部分/` | Primer design, cloning strategy, prokaryotic expression, and experimental records | 引物设计、克隆策略、原核表达及实验记录 |
-| `论文及参考文献/` | The original thesis, concise thesis version, and a reference index | 原始毕业论文、精简版论文及参考文献索引 |
+| `论文及参考文献/` | The original project paper, concise version, and a reference index | 原始课题论文、精简版论文及参考文献索引 |
 | `assets/` | Figures used by this README | README 使用的图像资源 |
 
 ## Suggested reading order｜建议使用顺序
@@ -72,13 +72,12 @@ For legal, security, and repository-size reasons, third-party software installer
 
 ## Citation and reuse｜引用与使用
 
-If this repository contributes to your training or research, please cite the original undergraduate thesis where appropriate and link to this repository. For complete bibliographic details of the supporting literature, consult the bibliography in the thesis and the reference index included in this repository.
+If this repository contributes to your training or research, please cite the original project paper where appropriate and link to this repository. For complete bibliographic details of the supporting literature, consult the bibliography in the project paper and the reference index included in this repository.
 
-如本仓库对科研训练或研究工作有所帮助，请在适当位置引用原本科毕业论文并附上本仓库链接。支撑文献的完整书目信息请以论文参考文献表及仓库中的参考文献索引为准。
+如本仓库对科研训练或研究工作有所帮助，请在适当位置引用原课题论文并附上本仓库链接。支撑文献的完整书目信息请以课题论文参考文献表及仓库中的参考文献索引为准。
 
 ## Author's note｜作者说明
 
 This manual records one undergraduate research route and the lessons learned while carrying it out. Its purpose is not to prescribe a single “correct” pipeline, but to help new students understand why each step is performed, reproduce the logic, identify limitations, and develop better solutions of their own.
 
-本手册记录的是一次本科毕业设计的研究路径及实践经验。它并非规定唯一“正确”的流程，而是希望帮助后来者理解每一步为什么要做、如何复现其逻辑、如何识别局限，并在此基础上形成更好的研究方案。
-
+本手册记录的是我在山东大学本科就读期间完成的一项课题的研究路径及实践经验。它并非规定唯一“正确”的流程，而是希望帮助后来者理解每一步为什么要做、如何复现其逻辑、如何识别局限，并在此基础上形成更好的研究方案。
