@@ -1,5 +1,11 @@
 # CBBT Multi-Epitope Recombinant Antigen: Design and Evaluation
 
+## Author's note｜项目说明
+
+This manual records one undergraduate research route and the lessons learned while carrying it out. Its purpose is not to prescribe a single “correct” pipeline, but to help new students understand why each step is performed, reproduce the logic, identify limitations, and develop better solutions of their own.
+
+本手册记录的是我在山东大学本科就读期间完成的一项课题的研究路径及实践经验。它并非规定唯一“正确”的流程，而是希望帮助后来者理解每一步为什么要做、如何复现其逻辑、如何识别局限，并在此基础上形成更好的研究方案。
+
 ## 多表位重组抗原 CBBT：设计与评价
 
 This repository presents the design and evaluation of **CBBT**, a multi-epitope recombinant antigen developed using reverse vaccinology and immunoinformatics. The project originated from my undergraduate research at Shandong University. It brings together the computational design route, representative structural and experimental results, and a supporting research training manual prepared at the invitation of my supervisor.
@@ -164,8 +170,3 @@ If this repository contributes to your training or research, please cite the ori
 
 如本仓库对科研训练或研究工作有所帮助，请在适当位置引用原课题论文并附上本仓库链接。支撑文献的完整书目信息请以课题论文参考文献表及仓库中的参考文献索引为准。
 
-## Author's note｜作者说明
-
-This manual records one undergraduate research route and the lessons learned while carrying it out. Its purpose is not to prescribe a single “correct” pipeline, but to help new students understand why each step is performed, reproduce the logic, identify limitations, and develop better solutions of their own.
-
-本手册记录的是我在山东大学本科就读期间完成的一项课题的研究路径及实践经验。它并非规定唯一“正确”的流程，而是希望帮助后来者理解每一步为什么要做、如何复现其逻辑、如何识别局限，并在此基础上形成更好的研究方案。
