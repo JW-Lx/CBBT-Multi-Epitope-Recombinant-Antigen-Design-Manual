@@ -82,7 +82,7 @@ This manual records one undergraduate research route and the lessons learned whi
 
 本手册记录的是我在山东大学本科就读期间完成的一项课题的研究路径及实践经验。它并非规定唯一“正确”的流程，而是希望帮助后来者理解每一步为什么要做、如何复现其逻辑、如何识别局限，并在此基础上形成更好的研究方案。
 
-## Follow-up validation｜后续实验验证
+## Follow-up validation｜实验验证
 
 Building on this work, subsequent members of the laboratory conducted a series of animal studies. The results showed that CBBT produced favorable broad-spectrum immune responses under the tested experimental conditions, providing further experimental support for the antigen-design strategy described in this manual.
 
